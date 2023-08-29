@@ -42,7 +42,7 @@ features:
   - icon: repo
     title: 集藏
     details: 四库别集，宝卷，小说，文总集，文评，演义，笑话，话本，谜语。
-    link: https://ruguoaaa.github.io/xirang5/集藏/
+    link: /集藏/
 
   - icon: repo
     title: 艺藏
