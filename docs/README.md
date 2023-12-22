@@ -90,7 +90,7 @@ footer: 使用<a href="https://theme-hope.vuejs.press/" target="_blank">VuePress
   * [x] 易藏  100%
   * [ ] 史藏
   * [x] 子藏  100%
-  * [ ] 集藏  10%
+  * [ ] 集藏  100%
   * [x] 艺藏  100%
   * [x] 佛藏  100%
   * [x] 儒藏  100%
